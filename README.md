@@ -8,8 +8,9 @@
 ## Proyectos Destacados
 
 ### Proyecto de Clasificación de Animales
+![Imagen del proyecto de Asistente Personal de IA]
 
-![Imagen del proyecto de clasificación de animales](https://www.researchgate.net/profile/Pablo-Pico-Valencia/publication/359068512/figure/fig1/AS:1133015971442688@1647143466120/Figura-1-Clasificacion-de-imagenes-en-una-CNN-36.png)
+![Imagen del proyecto de clasificación de animales](./img/perro_gato.jpg)
 
 Este proyecto utiliza redes neuronales convolucionales para aprender a reconocer perros y gatos.
 
