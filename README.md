@@ -8,7 +8,6 @@
 ## Proyectos Destacados
 
 ### Proyecto de Clasificación de Animales
-![Imagen del proyecto de Asistente Personal de IA]
 
 ![Imagen del proyecto de clasificación de animales](./img/perro_gato.jpg)
 
